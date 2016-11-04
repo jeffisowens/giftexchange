@@ -1,0 +1,12 @@
+# editors
+.idea
+codekit-config.json
+includes/config.codekit
+includes/src/config.codekit
+
+# local environments
+.DS_Store
+
+# dependencies
+node_modules
+bower_components

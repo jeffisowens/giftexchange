@@ -1,0 +1,279 @@
+{
+  "people": [
+    {
+      "name": "Jeff Owens",
+      "age": "adult",
+      "birthday": "6/16/1976",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Sarah Owens",
+      "age": "adult",
+      "birthday": "2/28/1978",
+      "related": ["Jeff Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Molly Owens",
+      "age": "adult",
+      "related": ["Sarah Owens", "Jeff Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Wendy Owens",
+      "age": "adult",
+      "related": ["Sarah Owens", "Molly Owens", "Jeff Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Peter Owens",
+      "age": "adult",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Jeff Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "John Owens",
+      "age": "adult",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "Jeff Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "James Owens",
+      "age": "child",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "Jeff Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Ellen Owens",
+      "age": "child",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Jeff Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Maryjane Owens",
+      "age": "child",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Jeff Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Kate Owens",
+      "age": "child",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Jeff Owens", "Ben Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Ben Owens",
+      "age": "child",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Jeff Owens", "Jack Owens", "William Owens", "Sylvie Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Jack Owens",
+      "age": "child",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jeff Owens", "William Owens", "Sylvie Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "William Owens",
+      "age": "child",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "Jeff Owens", "Sylvie Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Sylvie Owens",
+      "age": "child",
+      "related": ["Sarah Owens", "Molly Owens", "Wendy Owens", "Peter Owens", "John Owens", "James Owens", "Ellen Owens", "Maryjane Owens", "Kate Owens", "Ben Owens", "Jack Owens", "William Owens", "Jeff Owens"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Noah Chang",
+      "age": "adult",
+      "related": ["Anna Chang", "Ruby Chang", "Theo Chang"],
+      "giving": true,
+      "receiving": false
+    },
+    {
+      "name": "Anna Chang",
+      "age": "adult",
+      "related": ["Noah Chang", "Ruby Chang", "Theo Chang"],
+      "giving": false,
+      "receiving": false
+    },
+    {
+      "name": "Ruby Chang",
+      "age": "child",
+      "related": ["Anna Chang", "Noah Chang", "Theo Chang"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Theo Chang",
+      "age": "child",
+      "related": ["Anna Chang", "Ruby Chang", "Noah Chang"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Esther Yoder",
+      "age": "adult",
+      "related": [],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Sam Yoder",
+      "age": "adult",
+      "related": ["Ashley Yoder", "Soren Yoder", "Roman Yoder", "Gideon Yoder", "Baby Boy Yoder"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Ashley Yoder",
+      "age": "adult",
+      "related": ["Sam Yoder", "Soren Yoder", "Roman Yoder", "Gideon Yoder", "Baby Boy Yoder"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Soren Yoder",
+      "age": "child",
+      "related": ["Ashley Yoder", "Sam Yoder", "Roman Yoder", "Gideon Yoder", "Baby Boy Yoder"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Roman Yoder",
+      "age": "child",
+      "related": ["Ashley Yoder", "Sam Yoder", "Soren Yoder", "Gideon Yoder", "Baby Boy Yoder"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Gideon Yoder",
+      "age": "child",
+      "related": ["Ashley Yoder", "Sam Yoder", "Roman Yoder", "Soren Yoder", "Baby Boy Yoder"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Baby Boy Yoder",
+      "age": "child",
+      "related": ["Ashley Yoder", "Sam Yoder", "Roman Yoder", "Soren Yoder", "Gideon Yoder"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Sam Keithley",
+      "age": "adult",
+      "related": ["Lydia Keithley"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Lydia Keithley",
+      "age": "adult",
+      "related": ["Sam Keithley"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Gabe Noll",
+      "age": "adult",
+      "related": ["Martha Noll", "Isabel Noll"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Martha Noll",
+      "age": "adult",
+      "related": ["Gabe Noll", "Isabel Noll"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Isabel Noll",
+      "age": "child",
+      "related": ["Gabe Noll", "Martha Noll"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Nick Sennert",
+      "age": "adult",
+      "related": ["Mary Sennert", "Luke Sennert", "Abigail Sennert"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Mary Sennert",
+      "age": "adult",
+      "related": ["Nick Sennert", "Luke Sennert", "Abigail Sennert"],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Luke Sennert",
+      "age": "child",
+      "related": ["Mary Sennert", "Nick Sennert", "Abigail Sennert"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Abigail Sennert",
+      "age": "child",
+      "related": ["Mary Sennert", "Nick Sennert", "Luke Sennert"],
+      "giving": false,
+      "receiving": true
+    },
+    {
+      "name": "Joe Yoder",
+      "age": "adult",
+      "related": [],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Rachel Yoder",
+      "age": "adult",
+      "related": [],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Tabitha Yoder",
+      "age": "adult",
+      "related": [],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Abe Yoder",
+      "age": "adult",
+      "related": [],
+      "giving": true,
+      "receiving": true
+    },
+    {
+      "name": "Isaiah Yoder",
+      "age": "adult",
+      "related": [],
+      "giving": true,
+      "receiving": true
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "giftgiver",
+  "version": "0.1.0",
+  "authors": [
+    "Jeff Owens <jeffisowens@gmail.com>"
+  ],
+  "license": "Proprietary",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1"
+  }
+}
